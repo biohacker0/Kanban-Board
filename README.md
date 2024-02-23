@@ -1,9 +1,13 @@
-# Drag and Drop Functionality in JavaScript for KanBan Project
+# Drag and Drop JavaScript Project
 
-This project provides a JavaScript code snippet for implementing drag and drop interactions between draggable items and droppable areas on a webpage.
+This project provides a simple implementation of drag and drop functionality using JavaScript. It allows users to drag items from one area of the webpage and drop them into another, enhancing user interaction and usability.
 
-## Overview
+## Features
 
-The provided code enables users to drag items with the class `task` and drop them into areas with the class `swim-lane`. Upon dragging, the item receives a visual indication by adding the class `is-dragging`. Dropping an item places it above the nearest item in the drop area.
+- Draggable items: Users can drag elements with the class `task`.
+- Droppable areas: These are defined by elements with the class `swim-lane`.
+- Visual feedback: When an item is being dragged, it receives visual feedback by adding the class `is-dragging`.
+- Dynamic positioning: When dropping an item, it is placed above the nearest item in the drop area.
+
 
 [Blog](https://corvus-ikshana.hashnode.dev/kanban-board-in-plain-javascript)
