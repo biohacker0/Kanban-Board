@@ -12,7 +12,8 @@ This project provides a simple implementation of drag and drop functionality usi
 - Dynamic positioning: When dropping an item, it is placed above the nearest item in the drop area.
 
 ![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/cb64485a-b34d-4a02-95e8-9d83a7ddb248)
-![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/1aed618f-fc38-403e-99fe-92ac48fbbd16)
+![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/e3c22e29-2e7a-4a4c-a5fc-26f22082b9a9)
+
 ![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/2407dcd1-1eed-4654-a02e-2645be8cb288)
 
 
