@@ -9,5 +9,9 @@ This project provides a simple implementation of drag and drop functionality usi
 - Visual feedback: When an item is being dragged, it receives visual feedback by adding the class `is-dragging`.
 - Dynamic positioning: When dropping an item, it is placed above the nearest item in the drop area.
 
+![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/cb64485a-b34d-4a02-95e8-9d83a7ddb248)
+![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/1aed618f-fc38-403e-99fe-92ac48fbbd16)
+![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/2407dcd1-1eed-4654-a02e-2645be8cb288)
 
+#Link -https://kanbanboard0.netlify.app/
 [Blog](https://corvus-ikshana.hashnode.dev/kanban-board-in-plain-javascript)
