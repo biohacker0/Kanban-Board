@@ -1,5 +1,7 @@
 # Drag and Drop JavaScript Project
 
+# Link -https://kanbanboard0.netlify.app/
+
 This project provides a simple implementation of drag and drop functionality using JavaScript. It allows users to drag items from one area of the webpage and drop them into another, enhancing user interaction and usability.
 
 ## Features
@@ -13,5 +15,5 @@ This project provides a simple implementation of drag and drop functionality usi
 ![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/1aed618f-fc38-403e-99fe-92ac48fbbd16)
 ![image](https://github.com/biohacker0/Kanban-Board/assets/50107470/2407dcd1-1eed-4654-a02e-2645be8cb288)
 
-#Link -https://kanbanboard0.netlify.app/
+
 [Blog](https://corvus-ikshana.hashnode.dev/kanban-board-in-plain-javascript)
